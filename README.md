@@ -6,3 +6,6 @@ Sandbox for practicing Git workflows and unlocking GitHub achievements
 - Step Pull Shark: Second PR merged at 2026-11-21 13:03:05
 
 - Step Pair: Pair commit with co-author at 2026-11-21 13:03:19
+
+### Collaboration Demo
+- Co-author: [@Fahmi-hnnsa](https://github.com/Fahmi-hnnsa) (Pami) - Pair Extraordinaire
