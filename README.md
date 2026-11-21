@@ -16,3 +16,4 @@ Sandbox for practicing Git workflows and unlocking GitHub achievements
 - Bronze Hunt Iteration #9 at 2026-11-21T06:18:41Z with @Fahmi-hnnsa
 - Bronze Hunt Iteration #10 at 2026-11-21T06:18:56Z with @Fahmi-hnnsa
 - Bronze Hunt Iteration #11 at 2026-11-21T06:19:12Z with @Fahmi-hnnsa
+- Bronze Hunt Iteration #12 at 2026-11-21T06:19:27Z with @Fahmi-hnnsa
